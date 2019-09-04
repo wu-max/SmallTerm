@@ -1,5 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="PROXY_HOST" value="mirrors.opencas.cn" />
+    <option name="PROXY_HOST" value="maven.aliyun.com" />
   </component>
 </application>
