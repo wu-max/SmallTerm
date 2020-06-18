@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="book_json" type="JSON" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
